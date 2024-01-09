@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohanfrans
-- 👀 I’m interested in women
-- 🌱 I’m currently learning engineering 
-- 💞️ I’m looking to collaborate on google
+- 👀 I’m interested in Girls
+- 🌱 I’m currently learning  computer engineering 
+- 💞️ I’m looking for a girl
 - 📫 How to reach me not possible 
 
 <!---
